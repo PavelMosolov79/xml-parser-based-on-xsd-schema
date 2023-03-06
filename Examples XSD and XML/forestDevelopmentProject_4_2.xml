@@ -1,0 +1,1857 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid XML 2013 Designer Edition 11.1.0.4725 (http://www.liquid-technologies.com) -->
+<forestDevelopmentProject xmlns:ns="http://rosleshoz.gov.ru/xmlns/sTypes/4.1" xmlns:nsB="http://rosleshoz.gov.ru/xmlns/cTypes/4.2" xmlns="http://rosleshoz.gov.ru/xmlns/forestDevelopmentProject/4.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://rosleshoz.gov.ru/xmlns/forestDevelopmentProject/4.2 file:///C:/Users/belor/Desktop/%D0%A0%D0%9B%D0%A5/XSD/%D0%92%D1%81%D0%B5/DigitalDocumentFormats-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE%20%D0%B8%D0%BC%D0%B5%D0%BD_%D0%BB%D0%B5%D1%81%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/forestDevelopmentProject/4.2/forestDevelopmentProject.xsd">
+    <serviceInfo>
+        <nsB:provider>string</nsB:provider>
+        <nsB:version>4.2</nsB:version>
+        <nsB:name>string</nsB:name>
+        <nsB:guid>51a51362-192a-45c6-8947-33e97f420dbf</nsB:guid>
+    </serviceInfo>
+    <preamble>
+        <location>string</location>
+        <totalArea>4325850000.234905</totalArea>
+        <grounds>string</grounds>
+        <usageType>string</usageType>
+        <contract>
+            <nsB:type>string</nsB:type>
+            <nsB:number>б/н</nsB:number>
+            <nsB:date>1991-03-24</nsB:date>
+        </contract>
+    </preamble>
+    <general>
+        <partner>
+            <nsB:individualEntrepreneur>
+                <nsB:first_name>string</nsB:first_name>
+                <nsB:last_name>string</nsB:last_name>
+                <nsB:patronimic_name>string</nsB:patronimic_name>
+                <nsB:inn>526317984689</nsB:inn>
+            </nsB:individualEntrepreneur>
+        </partner>
+        <usageType>string</usageType>
+        <address>string</address>
+        <contactInformation>string</contactInformation>
+        <contract>
+            <nsB:type>string</nsB:type>
+            <nsB:number>б/н</nsB:number>
+            <nsB:date>1976-07-10</nsB:date>
+        </contract>
+        <usePeriod>-5426.12509</usePeriod>
+        <executiveAuthority id="string" name="string" description="string" />
+        <regulations>string</regulations>
+        <validityPeriod>1982-08-15</validityPeriod>
+        <developer>
+            <nsB:employee>
+                <nsB:first_name>string</nsB:first_name>
+                <nsB:last_name>string</nsB:last_name>
+                <nsB:patronimic_name>string</nsB:patronimic_name>
+                <nsB:number>string</nsB:number>
+                <nsB:date>1988-12-26</nsB:date>
+            </nsB:employee>
+        </developer>
+        <yearForestManagement>-5491</yearForestManagement>
+        <info>
+            <listQuartersTaxationUnit number="1" />
+            <distributionSpecialPurpose number="1">
+                <row>
+                    <specialPurpose name="string" />
+                    <protectionCategory id="string" name="string" />
+                    <area>337030000.234906</area>
+                    <percent>11.18</percent>
+                </row>
+                <row>
+                    <specialPurpose name="string" description="string" />
+                    <area>8603370000.234905</area>
+                    <percent>53.78</percent>
+                </row>
+                <row>
+                    <specialPurpose name="string" description="string" />
+                    <area>5380870000.234905</area>
+                    <percent>27.86</percent>
+                </row>
+            </distributionSpecialPurpose>
+            <averageTaxationRates number="1">
+                <row>
+                    <specialPurpose id="string" name="string" />
+                    <farm>Твердолиственное</farm>
+                    <tree id="string" name="string" />
+                    <area>3666840000.234905</area>
+                    <age>4008</age>
+                    <bonitet id="string" name="string" description="string" />
+                    <completeness>-1619.045094196054907</completeness>
+                    <volume>2896880.23</volume>
+                    <ripeAndOverripe>7816970.23</ripeAndOverripe>
+                    <growth>6069820.23</growth>
+                    <composition>string</composition>
+                </row>
+                <row>
+                    <specialPurpose id="string" name="string" description="string" />
+                    <farm>Хвойное</farm>
+                    <tree name="string" description="string" />
+                    <area>9148920000.234905</area>
+                    <age>5761</age>
+                    <bonitet id="string" name="string" description="string" />
+                    <completeness>-1696.485094196054907</completeness>
+                    <volume>9432510.23</volume>
+                    <ripeAndOverripe>7834630.23</ripeAndOverripe>
+                    <growth>1559520.23</growth>
+                    <composition>string</composition>
+                </row>
+                <row>
+                    <specialPurpose name="string" description="string" />
+                    <farm>Мягколиственное</farm>
+                    <tree name="string" description="string" />
+                    <area>7517010000.234905</area>
+                    <age>-7224</age>
+                    <bonitet id="string" name="string" />
+                    <completeness>4822.794905803945093</completeness>
+                    <volume>4672410.23</volume>
+                    <ripeAndOverripe>7016440.23</ripeAndOverripe>
+                    <growth>6249850.23</growth>
+                    <composition>string</composition>
+                </row>
+            </averageTaxationRates>
+            <speciallyProtectedNaturalAreas number="1">
+                <row>
+                    <speciallyProtectedNaturalArea>string</speciallyProtectedNaturalArea>
+                    <securityMode>string</securityMode>
+                    <event>string</event>
+                    <location>
+                        <row>
+                            <nsB:forestry name="string" />
+                            <nsB:subforestry id="string" name="string" />
+                            <nsB:quarter>string</nsB:quarter>
+                            <nsB:taxationUnit>string</nsB:taxationUnit>
+                        </row>
+                    </location>
+                </row>
+                <row>
+                    <speciallyProtectedNaturalArea>string</speciallyProtectedNaturalArea>
+                    <securityMode>string</securityMode>
+                    <event>string</event>
+                    <location>
+                        <row>
+                            <nsB:forestry name="string" description="string" />
+                            <nsB:subforestry name="string" description="string" />
+                            <nsB:quarter>string</nsB:quarter>
+                            <nsB:taxationUnit>string</nsB:taxationUnit>
+                        </row>
+                    </location>
+                </row>
+                <row>
+                    <speciallyProtectedNaturalArea>string</speciallyProtectedNaturalArea>
+                    <securityMode>string</securityMode>
+                    <event>string</event>
+                    <location>
+                        <row>
+                            <nsB:forestry name="string" />
+                            <nsB:subforestry name="string" />
+                            <nsB:quarter>string</nsB:quarter>
+                            <nsB:taxationUnit>string</nsB:taxationUnit>
+                        </row>
+                    </location>
+                </row>
+            </speciallyProtectedNaturalAreas>
+            <contamination number="1" />
+            <surveys number="1">
+                <row>
+                    <surveyMaterials>string</surveyMaterials>
+                    <requisites>string</requisites>
+                </row>
+                <row>
+                    <surveyMaterials>string</surveyMaterials>
+                    <requisites>string</requisites>
+                </row>
+                <row>
+                    <surveyMaterials>string</surveyMaterials>
+                    <requisites>string</requisites>
+                </row>
+            </surveys>
+            <encumbrances number="1">
+                <row>
+                    <typeEncumbrance>string</typeEncumbrance>
+                    <borderArea>string</borderArea>
+                </row>
+            </encumbrances>
+        </info>
+        <objects>
+            <locationObject number="1" />
+            <volumeCuttings number="1">
+                <row>
+                    <object id="string" name="string" />
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>8303780000.234905</area>
+                    <rootVolume>6843580.23</rootVolume>
+                    <rootConiferVolume>383530.23</rootConiferVolume>
+                    <liquidVolume>8046150.23</liquidVolume>
+                    <liquidConiferVolume>688870.23</liquidConiferVolume>
+                </row>
+                <row>
+                    <object name="string" description="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>1182540000.234906</area>
+                    <rootVolume>55600.23</rootVolume>
+                    <rootConiferVolume>6651110.23</rootConiferVolume>
+                    <liquidVolume>3799970.23</liquidVolume>
+                    <liquidConiferVolume>2650620.23</liquidConiferVolume>
+                </row>
+                <row>
+                    <object id="string" name="string" description="string" />
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>9183190000.234905</area>
+                    <rootVolume>2371890.23</rootVolume>
+                    <rootConiferVolume>2682390.23</rootConiferVolume>
+                    <liquidVolume>5909520.23</liquidVolume>
+                    <liquidConiferVolume>1808440.23</liquidConiferVolume>
+                </row>
+                <row>
+                    <object name="string" description="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" description="string" />
+                        <nsB:subforestry name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>2356720000.234906</area>
+                    <rootVolume>5969470.23</rootVolume>
+                    <rootConiferVolume>8626040.23</rootConiferVolume>
+                    <liquidVolume>8233000.23</liquidVolume>
+                    <liquidConiferVolume>4843810.23</liquidConiferVolume>
+                </row>
+            </volumeCuttings>
+        </objects>
+        <measures>
+            <characteristicFireClasses number="1">
+                <row>
+                    <location>
+                        <nsB:forestry id="string" name="string" description="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <areaFireClasses_I>5158010000.234905</areaFireClasses_I>
+                    <areaFireClasses_II>594470000.234906</areaFireClasses_II>
+                    <areaFireClasses_III>568120000.234906</areaFireClasses_III>
+                    <areaFireClasses_IV>749300000.234906</areaFireClasses_IV>
+                    <areaFireClasses_V>2063020000.234906</areaFireClasses_V>
+                    <areaFireClasses_V>5935310000.234905</areaFireClasses_V>
+                    <area>7828480000.234905</area>
+                    <middleClass>string</middleClass>
+                </row>
+                <row>
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <areaFireClasses_I>378530000.234906</areaFireClasses_I>
+                    <areaFireClasses_II>4030210000.234905</areaFireClasses_II>
+                    <areaFireClasses_III>4762350000.234905</areaFireClasses_III>
+                    <areaFireClasses_IV>7523650000.234905</areaFireClasses_IV>
+                    <areaFireClasses_V>2276180000.234906</areaFireClasses_V>
+                    <areaFireClasses_V>2555260000.234906</areaFireClasses_V>
+                    <area>6237810000.234905</area>
+                    <middleClass>string</middleClass>
+                </row>
+                <row>
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <areaFireClasses_I>4057540000.234905</areaFireClasses_I>
+                    <areaFireClasses_II>9586650000.234905</areaFireClasses_II>
+                    <areaFireClasses_III>9667150000.234905</areaFireClasses_III>
+                    <areaFireClasses_IV>8302280000.234905</areaFireClasses_IV>
+                    <areaFireClasses_V>6578500000.234905</areaFireClasses_V>
+                    <areaFireClasses_V>7127370000.234905</areaFireClasses_V>
+                    <area>3989850000.234905</area>
+                    <middleClass>string</middleClass>
+                </row>
+            </characteristicFireClasses>
+            <characteristicWaterObjects number="1">
+                <row>
+                    <waterObject>string</waterObject>
+                    <location>
+                        <row>
+                            <nsB:forestry name="string" />
+                            <nsB:subforestry name="string" />
+                            <nsB:quarter>string</nsB:quarter>
+                            <nsB:taxationUnit>string</nsB:taxationUnit>
+                        </row>
+                    </location>
+                    <area>5697180000.234905</area>
+                </row>
+                <row>
+                    <waterObject>string</waterObject>
+                    <location>
+                        <row>
+                            <nsB:forestry name="string" />
+                            <nsB:subforestry name="string" />
+                            <nsB:quarter>string</nsB:quarter>
+                            <nsB:taxationUnit>string</nsB:taxationUnit>
+                        </row>
+                    </location>
+                    <area>5529400000.234905</area>
+                </row>
+                <row>
+                    <waterObject>string</waterObject>
+                    <location>
+                        <row>
+                            <nsB:forestry name="string" description="string" />
+                            <nsB:subforestry id="string" name="string" />
+                            <nsB:quarter>string</nsB:quarter>
+                            <nsB:taxationUnit>string</nsB:taxationUnit>
+                        </row>
+                    </location>
+                    <area>9653600000.234905</area>
+                </row>
+            </characteristicWaterObjects>
+            <designedFirePrevention number="1">
+                <row>
+                    <firePreventionObject>I</firePreventionObject>
+                    <typeEvent>II</typeEvent>
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <unitType id="string" name="string" />
+                    <need>3280.45491</need>
+                    <availability>4781.07491</availability>
+                    <designedTotalVolume>1540.13491</designedTotalVolume>
+                    <designedAnnualVolume>1386.65491</designedAnnualVolume>
+                    <deadlines>I</deadlines>
+                </row>
+                <row>
+                    <firePreventionObject>IV</firePreventionObject>
+                    <typeEvent>II</typeEvent>
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <unitType name="string" description="string" />
+                    <need>6792.17491</need>
+                    <availability>361.49491</availability>
+                    <designedTotalVolume>-6034.24509</designedTotalVolume>
+                    <designedAnnualVolume>-3124.84509</designedAnnualVolume>
+                    <deadlines>IV</deadlines>
+                </row>
+                <row>
+                    <firePreventionObject>V</firePreventionObject>
+                    <typeEvent>V</typeEvent>
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry id="string" name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <unitType name="string" description="string" />
+                    <need>9715.33491</need>
+                    <availability>7553.23491</availability>
+                    <designedTotalVolume>8119.51491</designedTotalVolume>
+                    <designedAnnualVolume>-9685.30509</designedAnnualVolume>
+                    <deadlines>I</deadlines>
+                </row>
+            </designedFirePrevention>
+            <fireEquipment number="1">
+                <row>
+                    <name>V</name>
+                    <unitType name="string" description="string" />
+                    <regulations>I</regulations>
+                    <availability>1039.53491</availability>
+                    <need>-916.52509</need>
+                    <location>string</location>
+                </row>
+                <row>
+                    <name>I</name>
+                    <unitType name="string" />
+                    <regulations>V</regulations>
+                    <availability>8172.21491</availability>
+                    <need>5459.33491</need>
+                    <location>string</location>
+                </row>
+                <row>
+                    <name>II</name>
+                    <unitType id="string" name="string" />
+                    <regulations>IV</regulations>
+                    <availability>-4857.68509</availability>
+                    <need>8221.13491</need>
+                    <location>string</location>
+                </row>
+            </fireEquipment>
+            <prevention number="1">
+                <row>
+                    <specialPurpose name="string" description="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" description="string" />
+                        <nsB:subforestry name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <treatmentTtrees>
+                        <volume>1053.05491</volume>
+                        <annualVolume>-9924.80509</annualVolume>
+                    </treatmentTtrees>
+                    <pesticideApplication>
+                        <volume>4317140000.234905</volume>
+                        <annualVolume>6775000000.234905</annualVolume>
+                    </pesticideApplication>
+                    <fertilizerUse>
+                        <volume>5930360000.234905</volume>
+                        <annualVolume>3573830000.234905</annualVolume>
+                    </fertilizerUse>
+                    <improvingConditions>
+                        <volume>6603.01491</volume>
+                        <annualVolume>8459.97491</annualVolume>
+                    </improvingConditions>
+                    <habitatProtection>
+                        <volume>9064890000.234905</volume>
+                        <annualVolume>8027440000.234905</annualVolume>
+                    </habitatProtection>
+                    <sowing>
+                        <volume>7590120000.234905</volume>
+                        <annualVolume>6671650000.234905</annualVolume>
+                    </sowing>
+                    <usePheromones>
+                        <volume>9146.71491</volume>
+                        <annualVolume>8739.63491</annualVolume>
+                    </usePheromones>
+                </row>
+                <row>
+                    <specialPurpose id="string" name="string" />
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <treatmentTtrees>
+                        <volume>9234.29491</volume>
+                        <annualVolume>-3648.00509</annualVolume>
+                    </treatmentTtrees>
+                    <pesticideApplication>
+                        <volume>6921830000.234905</volume>
+                        <annualVolume>8213350000.234905</annualVolume>
+                    </pesticideApplication>
+                    <fertilizerUse>
+                        <volume>9902010000.234905</volume>
+                        <annualVolume>1601140000.234906</annualVolume>
+                    </fertilizerUse>
+                    <improvingConditions>
+                        <volume>9471.57491</volume>
+                        <annualVolume>-2635.96509</annualVolume>
+                    </improvingConditions>
+                    <habitatProtection>
+                        <volume>1927970000.234906</volume>
+                        <annualVolume>572130000.234906</annualVolume>
+                    </habitatProtection>
+                    <sowing>
+                        <volume>8644420000.234905</volume>
+                        <annualVolume>1337030000.234906</annualVolume>
+                    </sowing>
+                    <usePheromones>
+                        <volume>6401.77491</volume>
+                        <annualVolume>4702.35491</annualVolume>
+                    </usePheromones>
+                </row>
+                <row>
+                    <specialPurpose name="string" />
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <treatmentTtrees>
+                        <volume>4702.65491</volume>
+                        <annualVolume>8881.87491</annualVolume>
+                    </treatmentTtrees>
+                    <pesticideApplication>
+                        <volume>1160120000.234906</volume>
+                        <annualVolume>7235860000.234905</annualVolume>
+                    </pesticideApplication>
+                    <fertilizerUse>
+                        <volume>8723950000.234905</volume>
+                        <annualVolume>6146240000.234905</annualVolume>
+                    </fertilizerUse>
+                    <improvingConditions>
+                        <volume>-8114.64509</volume>
+                        <annualVolume>2439.23491</annualVolume>
+                    </improvingConditions>
+                    <habitatProtection>
+                        <volume>8092310000.234905</volume>
+                        <annualVolume>1646370000.234906</annualVolume>
+                    </habitatProtection>
+                    <sowing>
+                        <volume>7904300000.234905</volume>
+                        <annualVolume>8247650000.234905</annualVolume>
+                    </sowing>
+                    <usePheromones>
+                        <volume>-686.78509</volume>
+                        <annualVolume>-1562.12509</annualVolume>
+                    </usePheromones>
+                </row>
+                <row>
+                    <specialPurpose id="string" name="string" />
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry id="string" name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <treatmentTtrees>
+                        <volume>-6422.00509</volume>
+                        <annualVolume>2483.25491</annualVolume>
+                    </treatmentTtrees>
+                    <pesticideApplication>
+                        <volume>99870000.234906</volume>
+                        <annualVolume>2653220000.234906</annualVolume>
+                    </pesticideApplication>
+                    <fertilizerUse>
+                        <volume>981860000.234906</volume>
+                        <annualVolume>3193310000.234905</annualVolume>
+                    </fertilizerUse>
+                    <improvingConditions>
+                        <volume>-9820.42509</volume>
+                        <annualVolume>4212.17491</annualVolume>
+                    </improvingConditions>
+                    <habitatProtection>
+                        <volume>6822470000.234905</volume>
+                        <annualVolume>1198980000.234906</annualVolume>
+                    </habitatProtection>
+                    <sowing>
+                        <volume>2902910000.234906</volume>
+                        <annualVolume>924010000.234906</annualVolume>
+                    </sowing>
+                    <usePheromones>
+                        <volume>1650.41491</volume>
+                        <annualVolume>4129.71491</annualVolume>
+                    </usePheromones>
+                </row>
+            </prevention>
+            <fociHarmfulOrganisms number="1">
+                <row>
+                    <name>II</name>
+                    <specialPurpose id="string" name="string" description="string" />
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>9047710000.234905</area>
+                    <measure>string</measure>
+                </row>
+                <row>
+                    <name>II</name>
+                    <specialPurpose name="string" />
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>4278950000.234905</area>
+                    <measure>string</measure>
+                </row>
+            </fociHarmfulOrganisms>
+            <damageDeath number="1">
+                <row>
+                    <name>I</name>
+                    <specialPurpose name="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" description="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <areaDamage>180650000.234906</areaDamage>
+                    <areaDeath>7093390000.234905</areaDeath>
+                </row>
+                <row>
+                    <name>IV</name>
+                    <specialPurpose name="string" />
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <areaDamage>329800000.234906</areaDamage>
+                    <areaDeath>8492760000.234905</areaDeath>
+                </row>
+                <row>
+                    <name>I</name>
+                    <specialPurpose id="string" name="string" />
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <areaDamage>1075420000.234906</areaDamage>
+                    <areaDeath>3730160000.234905</areaDeath>
+                </row>
+            </damageDeath>
+            <sanitaryRecreationalMeasures number="1">
+                <row>
+                    <sanritaryRecreationalMeasure id="string" name="string" description="string" />
+                    <specialPurpose id="string" name="string" description="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>5525770000.234905</area>
+                    <volume>1731260.23</volume>
+                    <liquidVolume>2979900.23</liquidVolume>
+                    <businessVolume>6234330.23</businessVolume>
+                    <year>-3483</year>
+                    <rationale>string</rationale>
+                </row>
+            </sanitaryRecreationalMeasures>
+            <zonesRadioactiveContamination number="1">
+                <row>
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <contaminatedZone>слабая</contaminatedZone>
+                    <installationWarningBoards>3399.71491</installationWarningBoards>
+                    <radiationControl>5988230000.234905</radiationControl>
+                    <dosimetricControl>7977840000.234905</dosimetricControl>
+                    <otherEvents>6698420000.234905</otherEvents>
+                </row>
+                <row>
+                    <location>
+                        <nsB:forestry id="string" name="string" description="string" />
+                        <nsB:subforestry id="string" name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <contaminatedZone>средняя</contaminatedZone>
+                    <installationWarningBoards>-2488.30509</installationWarningBoards>
+                    <radiationControl>76290000.234906</radiationControl>
+                    <dosimetricControl>1623580000.234906</dosimetricControl>
+                    <otherEvents>5433900000.234905</otherEvents>
+                </row>
+                <row>
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <contaminatedZone>средняя</contaminatedZone>
+                    <installationWarningBoards>420.81491</installationWarningBoards>
+                    <radiationControl>2407640000.234906</radiationControl>
+                    <dosimetricControl>172050000.234906</dosimetricControl>
+                    <otherEvents>5783170000.234905</otherEvents>
+                </row>
+            </zonesRadioactiveContamination>
+            <listTaxationUnitRadioactiveZone number="1">
+                <row>
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry id="string" name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>5691730000.234905</area>
+                    <contaminatedZone>средняя</contaminatedZone>
+                    <usageRestriction>string</usageRestriction>
+                </row>
+                <row>
+                    <location>
+                        <nsB:forestry id="string" name="string" description="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>9615480000.234905</area>
+                    <contaminatedZone>средняя</contaminatedZone>
+                    <usageRestriction>string</usageRestriction>
+                </row>
+            </listTaxationUnitRadioactiveZone>
+            <areaNeedReforestation number="1">
+                <row>
+                    <landCategory id="string" name="string" />
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry id="string" name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>3035550000.234906</area>
+                </row>
+                <row>
+                    <landCategory id="string" name="string" description="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry id="string" name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>2977060000.234906</area>
+                </row>
+                <row>
+                    <landCategory name="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" description="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>6287380000.234905</area>
+                </row>
+            </areaNeedReforestation>
+            <reforestationPlan number="1">
+                <row>
+                    <landCategory id="string" name="string" description="string" />
+                    <sowing>4210180000.234905</sowing>
+                    <landing>8989980000.234905</landing>
+                    <combined>9973730000.234905</combined>
+                    <natural>6465670000.234905</natural>
+                </row>
+                <row>
+                    <landCategory id="string" name="string" description="string" />
+                    <sowing>9273720000.234905</sowing>
+                    <landing>2938030000.234906</landing>
+                    <combined>1466750000.234906</combined>
+                    <natural>2192820000.234906</natural>
+                </row>
+                <row>
+                    <landCategory name="string" />
+                    <sowing>9055710000.234905</sowing>
+                    <landing>652090000.234906</landing>
+                    <combined>3865660000.234905</combined>
+                    <natural>4424940000.234905</natural>
+                </row>
+            </reforestationPlan>
+            <listReforestation number="1">
+                <row>
+                    <landCategory name="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>440050000.234906</area>
+                    <conditionsProjectedMethod>string</conditionsProjectedMethod>
+                </row>
+                <row>
+                    <landCategory name="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>5274420000.234905</area>
+                    <conditionsProjectedMethod>string</conditionsProjectedMethod>
+                </row>
+                <row>
+                    <landCategory id="string" name="string" description="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>3429280000.234905</area>
+                    <conditionsProjectedMethod>string</conditionsProjectedMethod>
+                </row>
+            </listReforestation>
+            <listForestCare number="1">
+                <row>
+                    <typeCare>string</typeCare>
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <tree name="string" />
+                    <area>7881930000.234905</area>
+                </row>
+                <row>
+                    <typeCare>string</typeCare>
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <tree name="string" description="string" />
+                    <area>6115420000.234905</area>
+                </row>
+                <row>
+                    <typeCare>string</typeCare>
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <tree name="string" />
+                    <area>1348660000.234906</area>
+                </row>
+                <row>
+                    <typeCare>string</typeCare>
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <tree id="string" name="string" />
+                    <area>428970000.234906</area>
+                </row>
+            </listForestCare>
+            <areaForestCare number="1" />
+            <listProtection number="1">
+                <row>
+                    <objectProtection>string</objectProtection>
+                    <measureProtection>string</measureProtection>
+                    <location>
+                        <nsB:forestry id="string" name="string" description="string" />
+                        <nsB:subforestry name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>4257720000.234905</area>
+                    <unitType id="string" name="string" />
+                    <volume>994.21491</volume>
+                </row>
+            </listProtection>
+        </measures>
+    </general>
+    <forestUse>
+        <woodHarvesting>
+            <volumeCuttingsWood number="1">
+                <row>
+                    <specialPurpose name="string" />
+                    <formCutting>Выборочная рубка</formCutting>
+                    <typeCutting id="string" name="string" description="string" />
+                    <farm>Хвойное</farm>
+                    <area>5763760000.234905</area>
+                    <rootVolume>9051530.23</rootVolume>
+                    <liquidVolume>7238080.23</liquidVolume>
+                </row>
+                <row>
+                    <specialPurpose name="string" />
+                    <formCutting>Сплошная рубка</formCutting>
+                    <typeCutting name="string" />
+                    <farm>Мягколиственное</farm>
+                    <area>3641930000.234905</area>
+                    <rootVolume>9102670.23</rootVolume>
+                    <liquidVolume>903890.23</liquidVolume>
+                </row>
+                <row>
+                    <specialPurpose id="string" name="string" description="string" />
+                    <formCutting>Выборочная рубка</formCutting>
+                    <typeCutting name="string" />
+                    <farm>Твердолиственное</farm>
+                    <area>4127770000.234905</area>
+                    <rootVolume>7142850.23</rootVolume>
+                    <liquidVolume>8800290.23</liquidVolume>
+                </row>
+            </volumeCuttingsWood>
+            <locationCuttings number="1">
+                <row>
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <tree id="string" name="string" />
+                    <area>1645250000.234906</area>
+                    <averageVolume>2135580.23</averageVolume>
+                    <volume>958080.23</volume>
+                    <formCutting>Выборочная рубка</formCutting>
+                    <typeCutting id="string" name="string" />
+                    <samplePercentage>51.14</samplePercentage>
+                    <reforestationMethod>string</reforestationMethod>
+                </row>
+                <row>
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <tree name="string" description="string" />
+                    <area>394130000.234906</area>
+                    <averageVolume>1632230.23</averageVolume>
+                    <volume>5157880.23</volume>
+                    <formCutting>Выборочная рубка</formCutting>
+                    <typeCutting name="string" />
+                    <samplePercentage>34.76</samplePercentage>
+                    <reforestationMethod>string</reforestationMethod>
+                </row>
+                <row>
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <tree name="string" />
+                    <area>9493640000.234905</area>
+                    <averageVolume>5452660.23</averageVolume>
+                    <volume>496530.23</volume>
+                    <formCutting>Сплошная рубка</formCutting>
+                    <typeCutting name="string" description="string" />
+                    <samplePercentage>39.12</samplePercentage>
+                    <reforestationMethod>string</reforestationMethod>
+                </row>
+                <row>
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <tree id="string" name="string" description="string" />
+                    <area>3028080000.234906</area>
+                    <averageVolume>9223420.23</averageVolume>
+                    <volume>183370.23</volume>
+                    <formCutting>Выборочная рубка</formCutting>
+                    <typeCutting id="string" name="string" />
+                    <samplePercentage>33.36</samplePercentage>
+                    <reforestationMethod>string</reforestationMethod>
+                </row>
+            </locationCuttings>
+        </woodHarvesting>
+        <resinHarvesting>
+            <technologies>string</technologies>
+            <volumeResource number="1">
+                <row>
+                    <useful>6864330000.234905</useful>
+                    <completion>9126790000.234905</completion>
+                    <unprofitable>2157830000.234906</unprofitable>
+                    <maybe>6830640000.234905</maybe>
+                    <used>5485420000.234905</used>
+                    <finished>9894410000.234905</finished>
+                </row>
+            </volumeResource>
+            <locationResource number="1">
+                <row>
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry id="string" name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <tree id="string" name="string" description="string" />
+                    <area>9754090000.234905</area>
+                    <typeHarvesting>string</typeHarvesting>
+                    <resinOutlet>5943210000.2348</resinOutlet>
+                </row>
+                <row>
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <tree id="string" name="string" />
+                    <area>1470180000.234906</area>
+                    <typeHarvesting>string</typeHarvesting>
+                    <resinOutlet>188410000.2349</resinOutlet>
+                </row>
+                <row>
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <tree id="string" name="string" description="string" />
+                    <area>7534840000.234905</area>
+                    <typeHarvesting>string</typeHarvesting>
+                    <resinOutlet>8201180000.2348</resinOutlet>
+                </row>
+            </locationResource>
+        </resinHarvesting>
+        <nonTimberResourcesHarvesting>
+            <technologies>string</technologies>
+            <volumeResource number="1">
+                <row>
+                    <resource id="string" name="string" description="string" />
+                    <unitType id="string" name="string" />
+                    <fund>832150000.2349</fund>
+                    <fundAnnual>6065770000.2348</fundAnnual>
+                </row>
+                <row>
+                    <resource name="string" description="string" />
+                    <unitType name="string" description="string" />
+                    <fund>6152930000.2348</fund>
+                    <fundAnnual>8415350000.2348</fundAnnual>
+                </row>
+                <row>
+                    <resource name="string" />
+                    <unitType id="string" name="string" description="string" />
+                    <fund>8897170000.2348</fund>
+                    <fundAnnual>4052500000.2349</fundAnnual>
+                </row>
+            </volumeResource>
+            <locationResource number="1">
+                <row>
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <resource name="string" description="string" />
+                    <typeHarvesting>string</typeHarvesting>
+                    <unitType id="string" name="string" description="string" />
+                    <volume>6465200000.2348</volume>
+                </row>
+                <row>
+                    <location>
+                        <nsB:forestry id="string" name="string" description="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <resource id="string" name="string" description="string" />
+                    <unitType name="string" />
+                    <volume>3708740000.2349</volume>
+                </row>
+            </locationResource>
+        </nonTimberResourcesHarvesting>
+        <foodForestrResourcesHarvesting>
+            <characteristics>string</characteristics>
+            <technologies>string</technologies>
+            <volumeResource number="1">
+                <row>
+                    <resource id="string" name="string" description="string" />
+                    <unitType name="string" />
+                    <fund>1081140000.2349</fund>
+                    <fundAnnual>2820210000.2349</fundAnnual>
+                </row>
+                <row>
+                    <resource name="string" />
+                    <unitType name="string" description="string" />
+                    <fund>4917510000.2349</fund>
+                    <fundAnnual>5272650000.2349</fundAnnual>
+                </row>
+                <row>
+                    <resource id="string" name="string" />
+                    <unitType name="string" description="string" />
+                    <fund>8164950000.2348</fund>
+                    <fundAnnual>2328840000.2349</fundAnnual>
+                </row>
+                <row>
+                    <resource name="string" />
+                    <unitType name="string" />
+                    <fund>6728400000.2348</fund>
+                    <fundAnnual>8137340000.2348</fundAnnual>
+                </row>
+                <row>
+                    <resource id="string" name="string" description="string" />
+                    <unitType name="string" />
+                    <fund>6033520000.2348</fund>
+                    <fundAnnual>6432250000.2348</fundAnnual>
+                </row>
+            </volumeResource>
+            <locationResource number="1">
+                <row>
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <resource id="string" name="string" />
+                    <typeHarvesting>string</typeHarvesting>
+                    <unitType name="string" />
+                    <volume>9239140000.2348</volume>
+                </row>
+            </locationResource>
+        </foodForestrResourcesHarvesting>
+        <hunting>
+            <locationObject number="1">
+                <row>
+                    <object name="string" />
+                    <measure id="string" name="string" description="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" description="string" />
+                        <nsB:subforestry id="string" name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>1851310000.234906</area>
+                    <length>-5900.74509</length>
+                    <characteristic>string</characteristic>
+                </row>
+                <row>
+                    <object name="string" description="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" description="string" />
+                        <nsB:subforestry id="string" name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>2427010000.234906</area>
+                    <rootVolume>8954490.23</rootVolume>
+                    <liquidConiferVolume>150240.23</liquidConiferVolume>
+                </row>
+            </locationObject>
+            <locationMeasure number="1">
+                <row>
+                    <measure id="string" name="string" description="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry id="string" name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>3606990000.234905</area>
+                    <unitType id="string" name="string" description="string" />
+                </row>
+                <row>
+                    <measure id="string" name="string" description="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" description="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>4351010000.234905</area>
+                    <year>-751</year>
+                </row>
+                <row>
+                    <measure id="string" name="string" description="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>9725570000.234905</area>
+                    <year>-6293</year>
+                </row>
+                <row>
+                    <measure name="string" />
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry id="string" name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>5188420000.234905</area>
+                    <year>4238</year>
+                </row>
+            </locationMeasure>
+        </hunting>
+        <agriculture>
+            <technologies>string</technologies>
+            <volumeResource number="1">
+                <row>
+                    <resource id="string" name="string" description="string" />
+                    <unitType name="string" />
+                    <fund>3691620000.2349</fund>
+                    <fundAnnual>297130000.2349</fundAnnual>
+                </row>
+                <row>
+                    <resource id="string" name="string" />
+                    <unitType name="string" description="string" />
+                    <fund>7887970000.2348</fund>
+                    <fundAnnual>6840830000.2348</fundAnnual>
+                </row>
+            </volumeResource>
+            <locationResource number="1">
+                <row>
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <resource name="string" description="string" />
+                    <unitType name="string" description="string" />
+                    <volume>1629460000.2349</volume>
+                </row>
+                <row>
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <resource id="string" name="string" description="string" />
+                    <unitType id="string" name="string" />
+                    <volume>3667070000.2349</volume>
+                </row>
+            </locationResource>
+        </agriculture>
+        <fishing>
+            <characteristicsWork number="1">
+                <row>
+                    <typeWork>string</typeWork>
+                    <characteristic>string</characteristic>
+                    <volume>string</volume>
+                </row>
+                <row>
+                    <typeWork>string</typeWork>
+                    <characteristic>string</characteristic>
+                    <volume>string</volume>
+                </row>
+            </characteristicsWork>
+            <locationObject number="1" />
+        </fishing>
+        <researchActivities>
+            <characteristicsWork number="1">
+                <row>
+                    <typeWork>string</typeWork>
+                    <characteristic>string</characteristic>
+                    <volume>string</volume>
+                </row>
+            </characteristicsWork>
+            <locationMeasure number="1" />
+        </researchActivities>
+        <recreation>
+            <treeRegister>
+                <row>
+                    <number>string</number>
+                    <tree id="string" name="string" description="string" />
+                    <age>-8959</age>
+                    <condition>string</condition>
+                    <diameter>9984.87491</diameter>
+                    <height>3912.29491</height>
+                </row>
+            </treeRegister>
+            <locationCapitalObject number="1">
+                <row>
+                    <object name="string" description="string" />
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>9300970000.234905</area>
+                </row>
+                <row>
+                    <object id="string" name="string" description="string" />
+                    <measure name="string" />
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>7076480000.234905</area>
+                    <rootConiferVolume>5292130.23</rootConiferVolume>
+                    <liquidVolume>3595970.23</liquidVolume>
+                    <liquidConiferVolume>6730050.23</liquidConiferVolume>
+                </row>
+                <row>
+                    <object name="string" />
+                    <measure id="string" name="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>505100000.234906</area>
+                    <length>2960.91491</length>
+                    <characteristic>string</characteristic>
+                    <rootVolume>7060800.23</rootVolume>
+                </row>
+            </locationCapitalObject>
+            <locationNonCapitalObject number="1">
+                <row>
+                    <object name="string" description="string" />
+                    <measure id="string" name="string" description="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry id="string" name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>9643420000.234905</area>
+                    <length>5369.95491</length>
+                    <characteristic>string</characteristic>
+                    <rootVolume>4710610.23</rootVolume>
+                    <rootConiferVolume>3337530.23</rootConiferVolume>
+                </row>
+                <row>
+                    <object id="string" name="string" description="string" />
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>1703110000.234906</area>
+                    <characteristic>string</characteristic>
+                    <rootVolume>9626110.23</rootVolume>
+                    <rootConiferVolume>6073730.23</rootConiferVolume>
+                </row>
+            </locationNonCapitalObject>
+            <volumeCuttings number="1">
+                <row>
+                    <object id="string" name="string" />
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry id="string" name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>2541560000.234906</area>
+                    <rootVolume>4976060.23</rootVolume>
+                    <rootConiferVolume>1634410.23</rootConiferVolume>
+                    <liquidVolume>3039020.23</liquidVolume>
+                    <liquidConiferVolume>9893630.23</liquidConiferVolume>
+                </row>
+                <row>
+                    <object name="string" description="string" />
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>4030400000.234905</area>
+                    <rootVolume>6613510.23</rootVolume>
+                    <rootConiferVolume>6489580.23</rootConiferVolume>
+                    <liquidVolume>2462060.23</liquidVolume>
+                    <liquidConiferVolume>8203510.23</liquidConiferVolume>
+                </row>
+            </volumeCuttings>
+        </recreation>
+        <forestPlantations>
+            <characteristicsWork number="1">
+                <row>
+                    <typeWork>string</typeWork>
+                    <characteristic>string</characteristic>
+                    <volume>string</volume>
+                </row>
+                <row>
+                    <typeWork>string</typeWork>
+                    <characteristic>string</characteristic>
+                    <volume>string</volume>
+                </row>
+            </characteristicsWork>
+            <locationWork number="1">
+                <row>
+                    <typeWork>string</typeWork>
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>7711670000.234905</area>
+                </row>
+                <row>
+                    <typeWork>string</typeWork>
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>7630720000.234905</area>
+                </row>
+            </locationWork>
+        </forestPlantations>
+        <forestNurseries>
+            <characteristicsWork number="1">
+                <row>
+                    <typeWork>string</typeWork>
+                    <characteristic>string</characteristic>
+                    <volume>string</volume>
+                </row>
+                <row>
+                    <typeWork>string</typeWork>
+                    <characteristic>string</characteristic>
+                    <volume>string</volume>
+                </row>
+                <row>
+                    <typeWork>string</typeWork>
+                    <characteristic>string</characteristic>
+                    <volume>string</volume>
+                </row>
+            </characteristicsWork>
+            <locationWork number="1">
+                <row>
+                    <typeWork>string</typeWork>
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>8759990000.234905</area>
+                </row>
+                <row>
+                    <typeWork>string</typeWork>
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry id="string" name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>1578420000.234906</area>
+                </row>
+                <row>
+                    <typeWork>string</typeWork>
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>1373200000.234906</area>
+                </row>
+            </locationWork>
+        </forestNurseries>
+        <plantGrowing>
+            <characteristicsWork number="1">
+                <row>
+                    <typeWork>string</typeWork>
+                    <characteristic>string</characteristic>
+                    <volume>string</volume>
+                </row>
+                <row>
+                    <typeWork>string</typeWork>
+                    <characteristic>string</characteristic>
+                    <volume>string</volume>
+                </row>
+                <row>
+                    <typeWork>string</typeWork>
+                    <characteristic>string</characteristic>
+                    <volume>string</volume>
+                </row>
+                <row>
+                    <typeWork>string</typeWork>
+                    <characteristic>string</characteristic>
+                    <volume>string</volume>
+                </row>
+            </characteristicsWork>
+            <locationMeasure number="1">
+                <row>
+                    <measure id="string" name="string" />
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>5586110000.234905</area>
+                    <unitType id="string" name="string" description="string" />
+                </row>
+                <row>
+                    <measure id="string" name="string" />
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>4881510000.234905</area>
+                </row>
+            </locationMeasure>
+        </plantGrowing>
+        <geology>
+            <characteristicsWork number="1" />
+            <locationObject number="1" />
+            <volumeCuttings number="1">
+                <row>
+                    <object id="string" name="string" />
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>8300600000.234905</area>
+                    <rootVolume>8348190.23</rootVolume>
+                    <rootConiferVolume>6155610.23</rootConiferVolume>
+                    <liquidVolume>3353600.23</liquidVolume>
+                    <liquidConiferVolume>2180720.23</liquidConiferVolume>
+                </row>
+                <row>
+                    <object name="string" description="string" />
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>9348080000.234905</area>
+                    <rootVolume>7040580.23</rootVolume>
+                    <rootConiferVolume>3466290.23</rootConiferVolume>
+                    <liquidVolume>721890.23</liquidVolume>
+                    <liquidConiferVolume>9687070.23</liquidConiferVolume>
+                </row>
+            </volumeCuttings>
+            <locationMeasure number="1">
+                <row>
+                    <measure id="string" name="string" description="string" />
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>8782440000.234905</area>
+                    <unitType id="string" name="string" description="string" />
+                    <volume>8498540000.2348</volume>
+                    <year>2816</year>
+                </row>
+                <row>
+                    <measure id="string" name="string" />
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry id="string" name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>2272930000.234906</area>
+                </row>
+                <row>
+                    <measure name="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" description="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>3993220000.234905</area>
+                    <volume>3483770000.2349</volume>
+                    <year>-2803</year>
+                </row>
+                <row>
+                    <measure id="string" name="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" description="string" />
+                        <nsB:subforestry name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>9769200000.234905</area>
+                    <unitType id="string" name="string" />
+                </row>
+            </locationMeasure>
+        </geology>
+        <hydrology>
+            <characteristicsWork number="1">
+                <row>
+                    <typeWork>string</typeWork>
+                    <characteristic>string</characteristic>
+                    <volume>string</volume>
+                </row>
+                <row>
+                    <typeWork>string</typeWork>
+                    <characteristic>string</characteristic>
+                    <volume>string</volume>
+                </row>
+            </characteristicsWork>
+            <locationObject number="1">
+                <row>
+                    <object id="string" name="string" description="string" />
+                    <measure id="string" name="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>8298320000.234905</area>
+                    <characteristic>string</characteristic>
+                    <rootConiferVolume>4240020.23</rootConiferVolume>
+                </row>
+                <row>
+                    <object id="string" name="string" description="string" />
+                    <measure id="string" name="string" description="string" />
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>3812110000.234905</area>
+                    <rootConiferVolume>3554680.23</rootConiferVolume>
+                </row>
+                <row>
+                    <object name="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>9554600000.234905</area>
+                </row>
+                <row>
+                    <object id="string" name="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" description="string" />
+                        <nsB:subforestry id="string" name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>9838550000.234905</area>
+                    <length>4012.17491</length>
+                    <characteristic>string</characteristic>
+                </row>
+            </locationObject>
+            <volumeCuttings number="1">
+                <row>
+                    <object id="string" name="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry id="string" name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>8302550000.234905</area>
+                    <rootVolume>9554240.23</rootVolume>
+                    <rootConiferVolume>765920.23</rootConiferVolume>
+                    <liquidVolume>4677230.23</liquidVolume>
+                    <liquidConiferVolume>5492790.23</liquidConiferVolume>
+                </row>
+            </volumeCuttings>
+        </hydrology>
+        <linearObjects>
+            <characteristicsWork number="1" />
+            <locationObject number="1">
+                <row>
+                    <object name="string" description="string" />
+                    <measure id="string" name="string" />
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry id="string" name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>2014060000.234906</area>
+                    <characteristic>string</characteristic>
+                    <rootVolume>932700.23</rootVolume>
+                    <rootConiferVolume>5347280.23</rootConiferVolume>
+                    <liquidVolume>1692230.23</liquidVolume>
+                </row>
+            </locationObject>
+            <volumeCuttings number="1">
+                <row>
+                    <object name="string" />
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>9336080000.234905</area>
+                    <rootVolume>2199840.23</rootVolume>
+                    <rootConiferVolume>9930020.22</rootConiferVolume>
+                    <liquidVolume>9739200.23</liquidVolume>
+                    <liquidConiferVolume>3291900.23</liquidConiferVolume>
+                </row>
+                <row>
+                    <object id="string" name="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" description="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>6130030000.234905</area>
+                    <rootVolume>5452290.23</rootVolume>
+                    <rootConiferVolume>5857840.23</rootConiferVolume>
+                    <liquidVolume>3848640.23</liquidVolume>
+                    <liquidConiferVolume>8179750.23</liquidConiferVolume>
+                </row>
+                <row>
+                    <object id="string" name="string" />
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry id="string" name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>330140000.234906</area>
+                    <rootVolume>8466530.23</rootVolume>
+                    <rootConiferVolume>9897370.23</rootConiferVolume>
+                    <liquidVolume>4588180.23</liquidVolume>
+                    <liquidConiferVolume>7908650.23</liquidConiferVolume>
+                </row>
+                <row>
+                    <object name="string" description="string" />
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>9956920000.234905</area>
+                    <rootVolume>8524280.23</rootVolume>
+                    <rootConiferVolume>881840.23</rootConiferVolume>
+                    <liquidVolume>3466480.23</liquidVolume>
+                    <liquidConiferVolume>4445560.23</liquidConiferVolume>
+                </row>
+            </volumeCuttings>
+        </linearObjects>
+        <timberProcessing>
+            <characteristicsWork number="1">
+                <row>
+                    <typeWork>string</typeWork>
+                    <characteristic>string</characteristic>
+                    <volume>string</volume>
+                </row>
+            </characteristicsWork>
+            <locationObject number="1">
+                <row>
+                    <object id="string" name="string" description="string" />
+                    <measure name="string" />
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry id="string" name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>295010000.234906</area>
+                    <length>-4295.82509</length>
+                    <characteristic>string</characteristic>
+                    <rootConiferVolume>1580360.23</rootConiferVolume>
+                </row>
+            </locationObject>
+            <volumeCuttings number="1">
+                <row>
+                    <object id="string" name="string" />
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry name="string" description="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>1745930000.234906</area>
+                    <rootVolume>4690950.23</rootVolume>
+                    <rootConiferVolume>3007090.23</rootConiferVolume>
+                    <liquidVolume>7365640.23</liquidVolume>
+                    <liquidConiferVolume>7770140.23</liquidConiferVolume>
+                </row>
+                <row>
+                    <object id="string" name="string" description="string" />
+                    <location>
+                        <nsB:forestry name="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>486450000.234906</area>
+                    <rootVolume>9616060.23</rootVolume>
+                    <rootConiferVolume>569540.23</rootConiferVolume>
+                    <liquidVolume>6997350.23</liquidVolume>
+                    <liquidConiferVolume>183570.23</liquidConiferVolume>
+                </row>
+                <row>
+                    <object id="string" name="string" description="string" />
+                    <location>
+                        <nsB:forestry name="string" description="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>1494780000.234906</area>
+                    <rootVolume>8485230.23</rootVolume>
+                    <rootConiferVolume>4251400.23</rootConiferVolume>
+                    <liquidVolume>8119650.23</liquidVolume>
+                    <liquidConiferVolume>8778580.23</liquidConiferVolume>
+                </row>
+            </volumeCuttings>
+        </timberProcessing>
+        <surveyWork>
+            <characteristicsWork number="1">
+                <row>
+                    <characteristics>
+                        <typeWork>string</typeWork>
+                        <characteristic>string</characteristic>
+                        <volume>string</volume>
+                    </characteristics>
+                    <location>
+                        <nsB:forestry id="string" name="string" />
+                        <nsB:subforestry name="string" />
+                        <nsB:quarter>string</nsB:quarter>
+                        <nsB:taxationUnit>string</nsB:taxationUnit>
+                    </location>
+                    <area>6499990000.234905</area>
+                </row>
+            </characteristicsWork>
+        </surveyWork>
+    </forestUse>
+    <documentStructure>
+        <row>
+            <image>
+                <nsB:id>string</nsB:id>
+                <nsB:name>string</nsB:name>
+                <nsB:extension>string</nsB:extension>
+                <nsB:signature>YTM0NZomIzI2OTsmIzM0NTueYQ==</nsB:signature>
+            </image>
+        </row>
+        <row>
+            <text>string</text>
+        </row>
+    </documentStructure>
+    <attachments>
+        <file>
+            <nsB:id>string</nsB:id>
+            <nsB:name>string</nsB:name>
+            <nsB:extension>string</nsB:extension>
+        </file>
+        <file>
+            <nsB:id>string</nsB:id>
+            <nsB:name>string</nsB:name>
+            <nsB:extension>string</nsB:extension>
+            <nsB:signature>YTM0NZomIzI2OTsmIzM0NTueYQ==</nsB:signature>
+        </file>
+        <file>
+            <nsB:id>string</nsB:id>
+            <nsB:name>string</nsB:name>
+            <nsB:extension>string</nsB:extension>
+            <nsB:signature>YTM0NZomIzI2OTsmIzM0NTueYQ==</nsB:signature>
+        </file>
+        <file>
+            <nsB:id>string</nsB:id>
+            <nsB:name>string</nsB:name>
+            <nsB:extension>string</nsB:extension>
+        </file>
+        <file>
+            <nsB:id>string</nsB:id>
+            <nsB:name>string</nsB:name>
+            <nsB:extension>string</nsB:extension>
+            <nsB:signature>YTM0NZomIzI2OTsmIzM0NTueYQ==</nsB:signature>
+        </file>
+    </attachments>
+</forestDevelopmentProject>
