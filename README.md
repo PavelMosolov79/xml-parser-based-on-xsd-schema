@@ -1,1 +1,2 @@
 # xml-parser-based-on-xsd-schema
+This program allows you to read an xml file based on the resulting xsd schema. It converts a non-human readable structure into an xslx file. Attention! To process your scheme, you will need to change the value of the keys in the program functions. The program is written in Python 3.10.0 using The ElementTree XML API. The appearance of the program is written on the PyQt 6 framework.
